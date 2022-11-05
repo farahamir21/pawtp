@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+
+}
+p
+{
+    color: yellow;
+    font-size: 16px;
+}
+h4 {
+
+    color: red;
+
+
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.intro
+{
+    color:gray;
+    text-decoration: underline;
+}
+body {
+    
+    background:  url("https://img.freepik.com/vecteurs-libre/fond-papier-grunge_1048-10026.jpg?w=2000") fixed;
+    
+    border: 3px dashed;
+    box-shadow: 6px 6px 0px pink;
+ }
+ ol {
+    
+ }
+ {
+    margin-top: 15px;
+    height: 200px;
+    border-radius: 5px;
+    background: url("sanfrancisco.jpg") no-repeat;
+    position: relative;
+    box-shadow: 0px 4px 4px #1c1a19;
+    margin-bottom: 25px;
+ }
